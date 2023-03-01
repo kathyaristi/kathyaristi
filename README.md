@@ -1,5 +1,5 @@
 - Hi! My name is Katherine Aristizabal Norena and I am a second year Computer Science major at Northeastern Univeristy.
-- My interests are in Artificial Intelligence and computational Biology
+- I am interested in working in the intersection of technology and healthcare, applying my passion for software to develop technology that has a positive impact on the community.
 
 Contact:
 - Email: aristizabal.kathy@gmail.com 
