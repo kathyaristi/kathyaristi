@@ -1,4 +1,4 @@
-- Hi! My name is Katherine Aristizabal Norena and I am a second year Computer Science major at Northeastern Univeristy.
+- Hi! My name is Katherine Aristizabal Norena and I am a third year Computer Science major at Northeastern University.
 - I am interested in working in the intersection of technology and healthcare, and applying my passion for software to develop technology that has a positive impact on the community.
 
 Contact:
